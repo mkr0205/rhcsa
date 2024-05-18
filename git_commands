@@ -1,0 +1,12 @@
+1. git clone http://serverb.lab.example.com/entersoftlabs.git
+2. cd entersoftlabs
+3. echo “Hello world from Git” >hello.txt
+git status
+4. git add .
+git status
+5. git commit -m “ur commit message”
+git status
+6. git log
+7. git push
+8. git status
+9. git log
